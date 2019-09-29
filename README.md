@@ -1,2 +1,3 @@
 # hello-world
-first
+hi! i'm new here.
+
